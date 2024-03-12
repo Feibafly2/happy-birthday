@@ -1,8 +1,7 @@
 {
   "greeting": "致",
   "name": "岳",
-  "greetingText1": "原本已无相交的我们",
-  "greetingText2": "巧合下再次产生交集",
+  "greetingText": "原本已无相交的我们",
   "wishText": "May the js.prototypes always be with you! ;)",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
