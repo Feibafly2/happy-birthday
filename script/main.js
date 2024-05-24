@@ -1,4 +1,6 @@
-// Import the data to customize and insert them into page
+document.addEventListener("DOMContentLoaded", function () {
+  // 在这里放置 main.js 文件中的代码
+  // Import the data to customize and insert them into page
 const fetchData = () => {
   fetch("customize.json")
     .then(data => data.json())
@@ -304,3 +306,4 @@ const animationTimeline = () => {
 
 // Run fetch and animation in sequence
 fetchData();
+});
